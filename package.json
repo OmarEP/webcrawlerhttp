@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node main.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/OmarEP/webcrawlerhttp/issues"
   },
-  "homepage": "https://github.com/OmarEP/webcrawlerhttp#readme"
+  "homepage": "https://github.com/OmarEP/webcrawlerhttp#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
