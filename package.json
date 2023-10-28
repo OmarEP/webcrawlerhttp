@@ -1,0 +1,19 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarEP/webcrawlerhttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarEP/webcrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/OmarEP/webcrawlerhttp#readme"
+}
